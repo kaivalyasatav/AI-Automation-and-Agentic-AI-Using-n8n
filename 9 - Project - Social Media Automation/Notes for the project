@@ -1,0 +1,13 @@
+Manual Flow of automation:
+
+Research --> Ideas --> Content --> Posting Manually
+
+Automated Flow:
+
+Tools --> 
+1 - Google sheets for Database, 
+2 - Google TASKS for what we have searched(to save the research in docs), 
+3 -  OpenAI GPT 4o mini model which is going to give the overall ideas,
+
+
+Trigger (manually, scheduled, external trigger) --> Search Google/locations --> Content Ideas/Topics(Structured O/P with AI) --> AI Agent which can generate posts 
