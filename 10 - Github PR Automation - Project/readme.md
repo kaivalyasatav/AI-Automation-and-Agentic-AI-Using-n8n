@@ -1,6 +1,6 @@
 # GitHub PR Automation using n8n
 
-An intelligent **GitHub Pull Request Automation workflow** built using **n8n** to streamline repository management by automating pull request monitoring, notifications, and workflow actions. This project showcases practical DevOps automation using event-driven workflows. :contentReference[oaicite:0]{index=0}
+An intelligent **GitHub Pull Request Automation workflow** built using **n8n** to streamline repository management by automating pull request monitoring, notifications, and workflow actions. This project showcases practical DevOps automation using event-driven workflows.
 
 ## Features
 - Automated GitHub Pull Request monitoring
