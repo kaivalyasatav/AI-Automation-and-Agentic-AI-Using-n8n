@@ -19,8 +19,3 @@ A robust **Multi-Agent AI Automation System** built using **n8n**, showcasing ho
 
 ## Project Workflow
 This project demonstrates a multi-agent architecture where different AI agents are assigned specific roles and collaborate to complete tasks efficiently. The workflow focuses on task distribution, agent communication, and automated execution through n8n workflows.
-
-## Setup
-1. Clone the repository
-```bash
-git clone https://github.com/kaivalyasatav/AI-Automation-and-Agentic-AI-Using-n8n.git
